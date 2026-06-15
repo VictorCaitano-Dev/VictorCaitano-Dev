@@ -67,14 +67,4 @@ Meu objetivo é conquistar oportunidades que me permitam aplicar e expandir meus
 
 ---
 
-##  Estatísticas GitHub
-
-As estatísticas abaixo são atualizadas automaticamente pelo GitHub.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorCaitano-Dev\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCaitano-Dev\&layout=compact)
-
----
-
-⭐ Sempre aprendendo, construindo e evoluindo.
+## Sempre aprendendo, construindo e evoluindo.
