@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Victor Caitano
+#  Olá, eu sou Victor Caitano
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
